@@ -3,6 +3,8 @@
 
 // For example:
 var age = 25; // 'age' is a variable storing the value 25
+var fullName = "John Doe";
+var isRight = true;
 
 
 
