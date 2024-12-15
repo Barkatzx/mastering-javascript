@@ -1,5 +1,20 @@
 // Conditionals in JavaScript allow you to execute different blocks of code based on whether certain conditions evaluate to true or false. They are essential for adding logic and decision-making capabilities to your programs.
 
+// Comparison Operators for Conditionals
+
+// 01. Common operators used in conditions include:
+
+// • Equality: ==, ===;
+// • Inequality: !=, !==;
+// • Greater/Less than: >, <;
+// • Greater/Less than or equal to: >=, <=;
+
+// 02. Logical Operators for Compound Conditions
+
+// • AND (&&): Both conditions must be true.
+// • OR (||): At least one condition must be true.
+// • NOT (!): Inverts the condition's value.
+
 // Key Conditional Statements in JavaScript
 
 // 01. (if) Statement
@@ -51,18 +66,3 @@ switch (day) {
     default:
         console.log("Midweek hustle!");
 }
-
-// Comparison Operators for Conditionals
-
-// 01. Common operators used in conditions include:
-
-// • Equality: ==, ===;
-// • Inequality: !=, !==;
-// • Greater/Less than: >, <;
-// • Greater/Less than or equal to: >=, <=;
-
-// 02. Logical Operators for Compound Conditions
-
-// • AND (&&): Both conditions must be true.
-// • OR (||): At least one condition must be true.
-// • NOT (!): Inverts the condition's value.
