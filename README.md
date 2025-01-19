@@ -64,15 +64,10 @@ Stay updated with the latest tutorials and projects by connecting with me:
 
 - **GitHub**: [barkatzx](https://github.com/barkatzx)
 - **LinkedIn**: [Barkat Ullah](https://linkedin.com/in/barkatzx)
-- **Twitter**: [@barkatzx](https://twitter.com/barkatzx)
-- **Email**: [barkatzx@example.com](mailto:barkatzx@example.com)
+- **Email**: [barkatullah.zx@gmail.com](mailto:barkatullah.zx@gmail.com)
 
 ## 📜 License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, share, and modify it for learning and development purposes.
 
 Let’s embark on this journey to **JavaScript Mastery** together. Happy coding! 🎉
-
-```
-
-```
